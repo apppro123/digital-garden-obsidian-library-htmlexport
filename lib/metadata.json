@@ -1,6 +1,6 @@
 {
   "vaultName": "library",
-  "lastExport": 1723841030007,
+  "lastExport": 1723841897135,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -509,10 +509,10 @@
     "media/videos/youtube/Will night trains replace planes?.md",
     "media/videos/youtube/You are not immun against advertisement.md",
     "media/videos/youtube/You're Not Slow Become a Speed Learner in 20 Minutes.md",
-    "technology/computerScience/privacy, security/cyber security.md",
-    "technology/computerScience/privacy, security/general.md",
-    "technology/computerScience/privacy, security/smartphone cyber security.md",
-    "technology/computerScience/privacy, security/ssh keys.md",
+    "technology/computerScience/privacy-security/cyber security.md",
+    "technology/computerScience/privacy-security/general.md",
+    "technology/computerScience/privacy-security/smartphone cyber security.md",
+    "technology/computerScience/privacy-security/ssh keys.md",
     "technology/computerScience/programming/database/mysql.md",
     "technology/computerScience/programming/ReactNative/React (Native) Typescript.md",
     "technology/computerScience/programming/ReactNative/React native errors.md",
@@ -521,20 +521,16 @@
     "technology/computerScience/programming/HTMX.md",
     "technology/computerScience/programming/modx.md",
     "technology/computerScience/programming/Web Accessibility.md",
-    "technology/computerScience/Soft-_Hardware/computer/disk partitioning.md",
-    "technology/computerScience/Soft-_Hardware/computer/firmware.md",
-    "technology/computerScience/Soft-_Hardware/computer/First aid computer.md",
-    "technology/computerScience/Soft-_Hardware/computer/thermal paste or pad.md",
-    "technology/computerScience/Soft-_Hardware/just iMac/iMac general thoughts.md",
-    "technology/computerScience/Soft-_Hardware/just iMac/replacing broken late 20112 iMac gpu.md",
-    "technology/computerScience/Soft-_Hardware/linux.md",
-    "technology/computerScience/Soft-_Hardware/mac tips.md",
-    "technology/computerScience/Soft-_Hardware/NAS.md",
-    "technology/computerScience/Soft-_Hardware/Software.md",
-    "technology/computerScience/Soft-_Hardware/software problems.md",
-    "technology/computerScience/ChatGPT.md",
-    "technology/computerScience/Internet.md",
-    "technology/computerScience/Useful, interesting resources.md",
+    "technology/computerScience/Soft-Hardware/computer/disk partitioning.md",
+    "technology/computerScience/Soft-Hardware/computer/firmware.md",
+    "technology/computerScience/Soft-Hardware/computer/First aid computer.md",
+    "technology/computerScience/Soft-Hardware/computer/thermal paste or pad.md",
+    "technology/computerScience/Soft-Hardware/just iMac/iMac general thoughts.md",
+    "technology/computerScience/Soft-Hardware/just iMac/replacing broken late 20112 iMac gpu.md",
+    "technology/computerScience/Soft-Hardware/linux.md",
+    "technology/computerScience/Soft-Hardware/mac tips.md",
+    "technology/computerScience/Soft-Hardware/NAS.md",
+    "technology/computerScience/Soft-Hardware/Software.md",
     "technology/Transportation/Electric cars.md",
     "technology/Radiation by devices.md",
     "index.md",
@@ -601,139 +597,139 @@
   ],
   "fileInfo": {
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1723841030007,
-      "sourceSize": 229365,
+      "modifiedTime": 1723841897135,
+      "sourceSize": 227936,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 130208,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 10181,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/styles/snippets.css": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 102,
       "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
@@ -895,7 +891,7 @@
       "dependencies": []
     },
     "media/articles/Case closed 99.9 of scientists agree climate emergency caused by humans.md": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 1129,
       "exportedPath": "media/articles/case-closed-99.9-of-scientists-agree-climate-emergency-caused-by-humans.html",
       "dependencies": []
@@ -1277,7 +1273,7 @@
       "dependencies": []
     },
     "media/articles/More than 90 of rainforest carbon offsets by biggest certifier are worthless.md": {
-      "modifiedTime": 1723841030007,
+      "modifiedTime": 1723841897135,
       "sourceSize": 2998,
       "exportedPath": "media/articles/more-than-90-of-rainforest-carbon-offsets-by-biggest-certifier-are-worthless.html",
       "dependencies": []
@@ -3356,18 +3352,6 @@
       "exportedPath": "media/videos/youtube/you're-not-slow-become-a-speed-learner-in-20-minutes.html",
       "dependencies": []
     },
-    "technology/computerScience/privacy, security/cyber security.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 2905,
-      "exportedPath": "technology/computerscience/privacy,-security/cyber-security.html",
-      "dependencies": []
-    },
-    "technology/computerScience/privacy, security/general.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 0,
-      "exportedPath": "technology/computerscience/privacy,-security/general.html",
-      "dependencies": []
-    },
     "technology/computerScience/programming/database/mysql.md": {
       "modifiedTime": 1723840985755,
       "sourceSize": 296,
@@ -3408,90 +3392,6 @@
       "modifiedTime": 1722977943508,
       "sourceSize": 1649,
       "exportedPath": "technology/computerscience/programming/web.dev-make-all-100.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/computer/disk partitioning.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 502,
-      "exportedPath": "technology/computerscience/soft-_hardware/computer/disk-partitioning.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/computer/firmware.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 850,
-      "exportedPath": "technology/computerscience/soft-_hardware/computer/firmware.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/computer/First aid computer.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 992,
-      "exportedPath": "technology/computerscience/soft-_hardware/computer/first-aid-computer.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/computer/thermal paste or pad.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 3063,
-      "exportedPath": "technology/computerscience/soft-_hardware/computer/thermal-paste-or-pad.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/just iMac/iMac general thoughts.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 655,
-      "exportedPath": "technology/computerscience/soft-_hardware/just-imac/imac-general-thoughts.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/just iMac/replacing broken late 20112 iMac gpu.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 456,
-      "exportedPath": "technology/computerscience/soft-_hardware/just-imac/replacing-broken-late-20112-imac-gpu.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/linux.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 1268,
-      "exportedPath": "technology/computerscience/soft-_hardware/linux.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/mac tips.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 1016,
-      "exportedPath": "technology/computerscience/soft-_hardware/mac-tips.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/NAS.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 485,
-      "exportedPath": "technology/computerscience/soft-_hardware/nas.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/Software.md": {
-      "modifiedTime": 1722972168382,
-      "sourceSize": 297,
-      "exportedPath": "technology/computerscience/soft-_hardware/software.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Soft-_Hardware/software problems.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 0,
-      "exportedPath": "technology/computerscience/soft-_hardware/software-problems.html",
-      "dependencies": []
-    },
-    "technology/computerScience/ChatGPT.md": {
-      "modifiedTime": 1722972168382,
-      "sourceSize": 128,
-      "exportedPath": "technology/computerscience/chatgpt.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Internet.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 86,
-      "exportedPath": "technology/computerscience/internet.html",
-      "dependencies": []
-    },
-    "technology/computerScience/Useful, interesting resources.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 0,
-      "exportedPath": "technology/computerscience/useful,-interesting-resources.html",
       "dependencies": []
     },
     "technology/Transportation/Electric cars.md": {
@@ -4136,18 +4036,6 @@
       "exportedPath": "media/videos/youtube/what-almost-nobody-understands-about-addiction-–-dr.-gabor-maté.html",
       "dependencies": []
     },
-    "technology/computerScience/privacy, security/smartphone cyber security.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 285,
-      "exportedPath": "technology/computerscience/privacy,-security/smartphone-cyber-security.html",
-      "dependencies": []
-    },
-    "technology/computerScience/privacy, security/ssh keys.md": {
-      "modifiedTime": 1723840985755,
-      "sourceSize": 1322,
-      "exportedPath": "technology/computerscience/privacy,-security/ssh-keys.html",
-      "dependencies": []
-    },
     "technology/computerScience/programming/ReactNative/React (Native) Typescript.md": {
       "modifiedTime": 1723840985755,
       "sourceSize": 1725,
@@ -4158,6 +4046,90 @@
       "modifiedTime": 1723840985755,
       "sourceSize": 501,
       "exportedPath": "technology/computerscience/programming/reactnative/react-native-errors.html",
+      "dependencies": []
+    },
+    "technology/computerScience/privacy-security/cyber security.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 2905,
+      "exportedPath": "technology/computerscience/privacy-security/cyber-security.html",
+      "dependencies": []
+    },
+    "technology/computerScience/privacy-security/general.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 0,
+      "exportedPath": "technology/computerscience/privacy-security/general.html",
+      "dependencies": []
+    },
+    "technology/computerScience/privacy-security/smartphone cyber security.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 285,
+      "exportedPath": "technology/computerscience/privacy-security/smartphone-cyber-security.html",
+      "dependencies": []
+    },
+    "technology/computerScience/privacy-security/ssh keys.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 1322,
+      "exportedPath": "technology/computerscience/privacy-security/ssh-keys.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/computer/disk partitioning.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 502,
+      "exportedPath": "technology/computerscience/soft-hardware/computer/disk-partitioning.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/computer/firmware.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 850,
+      "exportedPath": "technology/computerscience/soft-hardware/computer/firmware.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/computer/First aid computer.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 992,
+      "exportedPath": "technology/computerscience/soft-hardware/computer/first-aid-computer.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/computer/thermal paste or pad.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 3063,
+      "exportedPath": "technology/computerscience/soft-hardware/computer/thermal-paste-or-pad.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/just iMac/iMac general thoughts.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 655,
+      "exportedPath": "technology/computerscience/soft-hardware/just-imac/imac-general-thoughts.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/just iMac/replacing broken late 20112 iMac gpu.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 456,
+      "exportedPath": "technology/computerscience/soft-hardware/just-imac/replacing-broken-late-20112-imac-gpu.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/linux.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 1268,
+      "exportedPath": "technology/computerscience/soft-hardware/linux.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/mac tips.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 1016,
+      "exportedPath": "technology/computerscience/soft-hardware/mac-tips.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/NAS.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 485,
+      "exportedPath": "technology/computerscience/soft-hardware/nas.html",
+      "dependencies": []
+    },
+    "technology/computerScience/Soft-Hardware/Software.md": {
+      "modifiedTime": 1723841780737,
+      "sourceSize": 297,
+      "exportedPath": "technology/computerscience/soft-hardware/software.html",
       "dependencies": []
     }
   }
